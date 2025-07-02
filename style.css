@@ -23,13 +23,7 @@ body {
 
 }
 
-@media screen and (max-width:600px) {
-  .navbar{
-    justify-content: center;
-    align-items:center ;
-  }
-  
-}
+
 
 
 
@@ -96,13 +90,7 @@ body {
     text-align: center;
 
 }
-@media screen and (max-width:600px) {
-  .icons{
-    justify-content: center;
-    align-items:center ;
-  }
-  
-}
+
 
 .icons p {
     padding: 5px;
@@ -130,12 +118,7 @@ body {
     border-radius: 30px;
 }
 
-@media  screen and (max-width:600px) {
-  .search-bar{
-    margin-right:500px;
-    
-  }  
-}
+
 
 .search-bar input {
   display: flex;
@@ -180,13 +163,7 @@ body {
     object-fit: cover;
 }
 
-@media screen and (max-width:600px) {
-  .trip-highlight{
-    width: fit-content;
-    object-fit:cover ;
-  }
-  
-}
+
 
 .tag {
     position: absolute;
